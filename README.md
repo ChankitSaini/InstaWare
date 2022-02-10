@@ -1,10 +1,9 @@
-# InstaWare
-# Instagram bot
+# InstaWare: Instagram bot
 
 ### thanks to linuxchoice
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
-### Features:
+## Features:
 #### Unfollow Tracker
 #### Increase Followers
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
@@ -16,5 +15,5 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 ```
 git clone https://github.com/ChankitSaini/instaware
 cd instaware
-bash inshackle.sh
+bash instaware.sh
 ```
