@@ -1,6 +1,5 @@
 # InstaWare
-# Instagram bot, auto followers
-## Recoded: https://github.com/ChankitSaini/instaware
+# Instagram bot
 
 ### thanks to linuxchoice
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
