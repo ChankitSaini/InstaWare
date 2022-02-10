@@ -10,7 +10,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
 
-![ins](https://user-images.githubusercontent.com/56509491/66778205-b18ad580-eee8-11e9-8904-2c536b1a365d.JPG)
+![ins](https://telegra.ph/file/22db3be04861c93dc6e11.jpg)
 
 ### Usage:
 ```
