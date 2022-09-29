@@ -31,7 +31,7 @@ printf """|  \____/ |_| |_|___/\__\__,_| \/  \/ \__,_|_|  \___| |\n"""
 printf """|                                                     |\n"""
 printf """|_____________________________________________________|\n"""
 printf """ \n"""
-printf """      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Recoded by Chankit Saini (chankit.live) \e[0m\n"""
+printf """      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Recoded by Chankit Saini (chankit.me) \e[0m\n"""
 }
 
 
